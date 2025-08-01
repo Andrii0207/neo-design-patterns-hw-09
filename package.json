@@ -18,5 +18,14 @@
     "@types/node-fetch": "^2.6.12",
     "fast-xml-parser": "^5.2.1",
     "node-fetch": "^2.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrii0207/neo-design-patterns-hw-09.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Andrii0207/neo-design-patterns-hw-09/issues"
+  },
+  "homepage": "https://github.com/Andrii0207/neo-design-patterns-hw-09#readme"
 }
